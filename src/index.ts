@@ -23,3 +23,4 @@ export * from "./events/expiration-complete-event";
 export * from "./events/payment-created-event";
 export * from "./events/ingredient-created-event";
 export * from "./events/extra-ingredient-created-event";
+export * from "./events/modifier-group-created-event";

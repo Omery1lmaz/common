@@ -11,4 +11,9 @@ export enum Subjects {
 
   IngredientCreated = "ingredient:created",
   ExtraIngredientCreated = "extra-ingredient:created",
+  ModifierGroupCreated = "modifier-group:created",
+  SellerCreated = "seller:created",
+  UserCreated = "user:created",
+  CategoryCreated = "category:created",
+  KitchenCreated = "kitchen:created",
 }
