@@ -1,8 +1,8 @@
 import { Subjects } from "./subjects";
 import mongoose from "mongoose";
 
-export interface IngredientCreatedEvent {
-  subject: Subjects.IngredientCreated;
+export interface ExtraIngredientCreatedEvent {
+  subject: Subjects.ExtraIngredientCreated;
   data: {
     id: mongoose.Schema.Types.ObjectId;
     version: number;

@@ -10,4 +10,5 @@ export enum Subjects {
   PaymentCreated = "payment:created",
 
   IngredientCreated = "ingredient:created",
+  ExtraIngredientCreated = "extra-ingredient:created",
 }
